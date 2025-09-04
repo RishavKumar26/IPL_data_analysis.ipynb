@@ -36,4 +36,4 @@ It provides insights into team performances, match outcomes, top scorers, best b
 ---
 
 ## ✍️ Author
-**Your Name**
+**Rishav Kumar**
